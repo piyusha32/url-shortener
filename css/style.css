@@ -1,0 +1,31 @@
+#form1 p {
+	text-align:center;
+	}
+	.header {
+		font-family: "Fertigo Pro", Fontin, Calluna, Steinem;
+		font-size: 36px;
+		width: 100%;
+		text-align: center;
+		top: 5%;
+		position: absolute;
+	}
+	.content {
+		position: absolute;
+		width: 500px;
+		top: 25%;
+		left: 30%;
+		
+	}
+	
+	.table thead span {
+		font-size:12px;
+	}
+
+	.shorten {
+		position: absolute;
+		width: 500px;
+		top: 40%;
+		left: 32%;
+		font-size: 28px;
+		
+	}
